@@ -13,6 +13,9 @@
     }
   ],
   "env": {
-    "NODE_ENV": "production"
+    "NODE_ENV": "production",
+    "N8N_HOST": "n8n-ten.vercel.app",
+    "N8N_PORT": "5678",
+    "N8N_PROTOCOL": "https"
   }
 }
